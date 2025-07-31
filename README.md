@@ -19,3 +19,9 @@ git remote set-url --add --push origin git@gitee.com:kid-kid/gitTest.git
 origin  git@github.com:yuezhenwei/gitTest.git (fetch)
 origin  git@gitee.com:kid-kid/gitTest.git (push)
 origin  git@gitee.com:kid-kid/gitTest.git (push)
+
+
+4.git remote -v
+origin  git@github.com:yuezhenwei/gitTest.git (fetch)
+origin  git@gitee.com:kid-kid/gitTest.git (push)
+origin  git@github.com:yuezhenwei/gitTest.git (push)
